@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "sass-rails", "~> 6.0"
+
+gem "active_link_to", "~> 1.0"
